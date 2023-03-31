@@ -9,14 +9,14 @@
     "orientation":"portrait-primary",
     "icons":[
             {
-                "src":"captain.png",
+                "src":"captain144.png",
                 "type":"image/png",
                 "sizes":"144x144"
 
 
             },
             {
-                "src":"captain.png",
+                "src":"captain144.png",
                 "type":"image/png",
                 "sizes":"144x144",
                 "purpose":"maskable"
